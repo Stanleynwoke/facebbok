@@ -1,0 +1,32 @@
+.block {
+    display: bloxk;
+    gap: 1rem;
+}
+
+.block div {
+    height: 1rem;
+    margin: 2px 0;
+    width: 100px;
+    background-color: blue;
+}
+
+.grid {
+    display: grid;
+    gap: 1rem;
+}
+
+.grid div {
+    height: 2rem;
+    background-color: green;
+}
+
+.flex {
+    display: flex;
+    gap: 1rem;
+}
+
+.flex div {
+    height: 1.5rem;
+    width: 3rem;
+    background-color: firebrick;
+}

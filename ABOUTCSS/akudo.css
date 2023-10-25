@@ -1,0 +1,14 @@
+.iphone .nav {
+display: grid;   
+grid-template-columns:  1fr 1fr 1fr; 
+}
+
+.makecap{
+    text-transform: uppercase;
+}
+.sp{margin-left: 0.75rem;}
+.iphone .nav .mid {text-align: center;}
+.iphone .nav .lst{text-align: right;}
+.icon{ display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+background-color: rgb(238, 162, 162);}

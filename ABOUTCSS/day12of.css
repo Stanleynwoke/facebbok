@@ -1,0 +1,6 @@
+.grid{
+    display: grid;
+    place-content: center;
+    height: 20rem;
+    border: 5px solid;
+}
